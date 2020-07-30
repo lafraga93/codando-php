@@ -25,7 +25,7 @@
             <div class="col-lg-6 offset-md-3 text-center text-homepage">
               <h1  data-aos="fade-up" data-aos-delay="100">Conteúdos sobre PHP de graça!</h1>
               <p class="mb-4"  data-aos="fade-up" data-aos-delay="200">Veja os vídeos, tire dúvidas, desenvolva habilidades e trabalhe com PHP do jeito certo. De graça, é claro!</p>
-              <p data-aos="fade-up" data-aos-delay="300"><a href="#components" class="btn btn-primary py-3 px-5 btn-pill">Veja os vídeos</a></p>
+              <p data-aos="fade-up" data-aos-delay="300"><a href="#videos" class="btn btn-primary py-3 px-5 btn-pill">Veja os vídeos</a></p>
             </div>
           </div>
         </div>
@@ -34,7 +34,7 @@
   </div>
 </div>
 
-<div class="site-section courses-title" id="components">
+<div class="site-section courses-title" id="videos">
   <div class="container">
     <div class="row mb-5 justify-content-center">
       <div class="col-lg-7 text-center" data-aos="fade-up" data-aos-delay="">
@@ -44,6 +44,7 @@
   </div>
 </div>
 
+<!--
 <div class="site-section courses-entry-wrap" data-aos="fade-up" data-aos-delay="100">
   <div class="container">
     
@@ -110,5 +111,6 @@
 
   </div>
 </div>
+-->
 
 <?php require_once 'resources/layout/footer.html'; ?>
