@@ -29,11 +29,9 @@
           <h3 class="text-black">Vídeos</h3>
           <p class="mb-4">Clique no botão para visualizar o conteúdo!</p>
           <a data-fancybox href="#lesson-01" class="btn btn-primary">Conceitos</a>
+          <a data-fancybox href="#lesson-01" class="btn btn-primary">Montando o ambiente</a>
+          <a data-fancybox href="#lesson-01" class="btn btn-primary">Rodando um projeto básico</a>
           <video width="640" height="320" controls="true" id="lesson-01" class="lesson" src="" type="video/mp4"></video>
-          <a data-fancybox href="#lesson-02" class="btn btn-primary">Montando o ambiente</a>
-          <video width="640" height="320" controls="true" id="lesson-02" class="lesson" src="" type="video/mp4"></video>
-          <a data-fancybox href="#lesson-03" class="btn btn-primary">Rodando um projeto básico</a>
-          <video width="640" height="320" controls="true" id="lesson-03" class="lesson" src="" type="video/mp4"></video>
         </div>
       </div> 
     </div>
