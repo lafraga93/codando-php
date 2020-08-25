@@ -7,11 +7,9 @@
         <div class="col-12">
           <div class="row align-items-center">
             <div class="col-lg-6 offset-md-3 text-center text-homepage">
-              <h1  data-aos="fade-up" data-aos-delay="100">Em breve... Conteúdos sobre PHP de graça!</h1>
+              <h1  data-aos="fade-up" data-aos-delay="100">Conteúdos sobre PHP de graça!</h1>
               <p class="mb-4"  data-aos="fade-up" data-aos-delay="200">Veja os vídeos, tire dúvidas, desenvolva habilidades e trabalhe com PHP do jeito certo. De graça, é claro!</p>
-              <!--
               <p data-aos="fade-up" data-aos-delay="300"><a href="#videos" class="btn btn-primary py-3 px-5 btn-pill">Veja os vídeos</a></p>
-              -->
             </div>
           </div>
         </div>
@@ -19,7 +17,7 @@
     </div>
   </div>
 </div>
-<!--
+
 <div class="site-section courses-title" id="videos">
   <div class="container">
     <div class="row mb-5 justify-content-center">
@@ -42,19 +40,20 @@
           </figure>
           <div class="course-inner-text py-4 px-4">
             <span class="course-price">Servidor Embutido do PHP</span>
-            <div class="meta"><span class="icon-clock-o"></span>01 vídeo(s) de 05 minuto(s) cada</div>
+            <div class="meta"><span class="icon-clock-o"></span>05 minuto(s)</div>
             <h3><a href="videos/welcome/">Servidor Embutido do PHP</a></h3>
             <p>Boas vindas e utilização do servidor web embutido do PHP</p>
           </div>
         </div>
 
+        <!--
         <div class="course bg-white h-100 align-self-stretch">
           <figure class="m-0">
             <a href="videos/docker-basico/"><img src="../../resources/images/covers/002.jpg" alt="" class="img-fluid"></a>
           </figure>
           <div class="course-inner-text py-4 px-4">
             <span class="course-price">Utilizando Docker</span>
-            <div class="meta"><span class="icon-clock-o"></span>03 vídeo(s) de 05 minuto(s) cada</div>
+            <div class="meta"><span class="icon-clock-o"></span>00 minuto(s)</div>
             <h3><a href="videos/docker-basico/">Utilizando Docker</a></h3>
             <p>Configuração de um ambiete mínimo PHP com Docker</p>
           </div>
@@ -66,11 +65,24 @@
           </figure>
           <div class="course-inner-text py-4 px-4">
             <span class="course-price">Criando Pacotes com Composer</span>
-            <div class="meta"><span class="icon-clock-o"></span>03 vídeo(s) de 05 minuto(s) cada</div>
+            <div class="meta"><span class="icon-clock-o"></span>00 minuto(s)</div>
             <h3><a href="videos/pacotes-composer/">Criando Pacotes com Composer</a></h3>
             <p>Criação, publicação e utilização de pacotes do Composer</p>
           </div>
         </div>
+
+        <div class="course bg-white h-100 align-self-stretch">
+          <figure class="m-0">
+            <a href="videos/pacotes-composer/"><img src="../../resources/images/covers/004.jpg" alt="" class="img-fluid"></a>
+          </figure>
+          <div class="course-inner-text py-4 px-4">
+            <span class="course-price">Trabalhando com Migrations</span>
+            <div class="meta"><span class="icon-clock-o"></span>00 minuto(s)</div>
+            <h3><a href="videos/pacotes-composer/">Trabalhando com Migrations</a></h3>
+            <p>Manutenção e versionamento de bancos de dados com Phinx</p>
+          </div>
+        </div>
+        -->
 
       </div>
     </div>
@@ -84,6 +96,5 @@
 
   </div>
 </div>
--->
 
 <?php require_once 'resources/layout/footer.html'; ?>
